@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+}
+
+.middle-container {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.button-container {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+}
