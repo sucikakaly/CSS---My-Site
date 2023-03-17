@@ -7,6 +7,12 @@
   background-color: #e4f9f5;
 }
 
+.cloud-1 {
+  position: absolute;
+  left: 200px;
+  top: 100px;
+}
+
 .middle-container {
   width: 200px;
   height: 200px;
