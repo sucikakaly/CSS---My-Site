@@ -41,5 +41,9 @@ h1 {
 .bottom-cloud {
   position: absolute;
   left: 300px;
-  bottom: 300px;
+  bottom: 200px;
+}
+
+.mountain {
+  width: 400px;
 }
