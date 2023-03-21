@@ -30,18 +30,6 @@ h3 {
   top: 100px;
 }
 
-.middle-container {
-  width: 200px;
-  height: 200px;
-  background-color: pink;
-}
-
-.bottom-container {
-  width: 200px;
-  height: 200px;
-  background-color: yellow;
-}
-
 .top-cloud {
   position: absolute;
   top: 50px;
