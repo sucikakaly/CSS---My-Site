@@ -45,3 +45,8 @@ h3 {
 .mountain {
   width: 500px;
 }
+
+.profile img {
+  width: 200px;
+  height: 200px;
+}
